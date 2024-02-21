@@ -101,7 +101,7 @@ background-size: cover;
 }
 .card-image pic-1{
 height: 170px ;
-width: auto;
+width: 300px;
 }
 .card p,h4{
   padding:10px;
